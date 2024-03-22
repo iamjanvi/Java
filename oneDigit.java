@@ -31,7 +31,7 @@ public class oneDigit {
         }
        }catch(Exception e)
        {
-        
+        System.out.println("Error = "+e.getMessage());
        }
     
 }
